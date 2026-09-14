@@ -62,3 +62,5 @@ The Random Forest did not substantially outperform Linear Regression, indicating
 ![Model MAE versus RSP uncertainty](figures/figure_2_mae_vs_noise.png)
 
 The physics-based model remains substantially more accurate than either ML approach across the tested uncertainty range.
+
+A detailed description of the project is available in the [project report](report/proton_range_prediction_report.pdf).
